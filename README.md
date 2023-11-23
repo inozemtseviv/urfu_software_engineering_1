@@ -1,1 +1,3 @@
-# urfu_software_engineering_1
+# Программная инженерия I
+
+- [Краткое изложение текста](hw1/README.md)
