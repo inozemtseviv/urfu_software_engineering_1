@@ -6,6 +6,7 @@ RUN pip install poetry
 COPY pyproject.toml /
 COPY poetry.lock /
 
+RUN poetry cache clear pypi --all
 RUN poetry install --no-root
 
 COPY main.py /main.py

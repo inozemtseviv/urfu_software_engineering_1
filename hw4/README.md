@@ -4,6 +4,7 @@
 
 Для локального развёртывания удобно использовать:
 
+- [Poetry](https://python-poetry.org/)
 - утилиту [Make](https://ru.wikipedia.org/wiki/Make)
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
