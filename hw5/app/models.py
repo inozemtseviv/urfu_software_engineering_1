@@ -8,5 +8,6 @@ class SummarizerRequest(BaseModel):
 class SummarizerResponse(BaseModel):
     text: str
 
+
 class HomeResponse(BaseModel):
     text: str

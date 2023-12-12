@@ -1,4 +1,5 @@
 from fastapi import APIRouter
+
 from app.models import SummarizerRequest, SummarizerResponse
 from app.services.base_summarizer_service import BaseSummarizerService
 
